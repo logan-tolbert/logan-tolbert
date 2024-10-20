@@ -1,6 +1,9 @@
+[![roadmap.sh](https://roadmap.sh/card/wide/66fbac21e52a9bf4763be3aa?variant=dark)](https://roadmap.sh)
+
+
 Results-oriented professional with a decade of experience in the automotive industry, where I honed my problem-solving and analytical skills as a mechanic and supervisor. Currently undergoing a career transition into software development, I am actively expanding my technical skill set through self-study and formal training at TrueCoders. Proficient in the fundamentals HTML, CSS, JavaScript, Python, and currently learning C#. Seeking opportunities to apply my practical problem-solving approach to building robust software solutions.
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66fbac21e52a9bf4763be3aa?variant=dark)](https://roadmap.sh)
+
 
 <!--
 
