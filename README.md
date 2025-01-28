@@ -1,9 +1,13 @@
-[![roadmap.sh](https://roadmap.sh/card/wide/66fbac21e52a9bf4763be3aa?variant=dark)](https://roadmap.sh)
+Hi 👋, I'm Logan Tolbert. I am a software developer, seeking to contribute my skills, learn, and meet new people in the software development community.
+
+# About Me
+My passion for software development stems from a lifelong curiosity about computers and technology. I found a love for programming after leaving my job as a mechanic of more than 10 years to find a more fulfilling career and better myself personally.  I'm currently enrolled with Truecoders to enhance my software development skills. I'm a fast learner, eager to tackle new challenges, and always seeking opportunities to improve my skills.
 
 
-Results-oriented professional with a decade of experience in the automotive industry, where I honed my problem-solving and analytical skills as a mechanic and supervisor. Currently undergoing a career transition into software development, I am actively expanding my technical skill set through self-study and formal training at TrueCoders. Proficient in the fundamentals HTML, CSS, JavaScript, Python, and currently learning C#. Seeking opportunities to apply my practical problem-solving approach to building robust software solutions.
-
-
+#Technical Skills
+- Languages: HTML, CSS, JavaScript, C#, SQL, Python
+- Frameworks & Libraries: .NET Core, ASP.NET Core
+- Tools and Platforms: Git, Github, Visual Studio, Visual Studio Code, Command Line(bash, PowerShell)
 
 <!--
 
