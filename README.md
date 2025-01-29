@@ -1,7 +1,7 @@
 Hi 👋, I'm Logan Tolbert. I am a software developer, seeking to contribute my skills, learn, and meet new people in the software development community.
 
 # About Me
-My passion for software development stems from a lifelong curiosity about computers and technology. I found a love for programming after leaving my job as a mechanic of more than 10 years to find a more fulfilling career and better myself personally.  I'm currently enrolled with Truecoders to enhance my software development skills. I'm a fast learner, eager to tackle new challenges, and always seeking opportunities to improve my skills.
+My passion for software development stems from a lifelong curiosity about computers and technology. I found a love for programming after leaving my job as a mechanic of more than 10 years to find a more fulfilling career and better myself personally.  I'm currently enrolled with [TrueCoders](https://truecoder.io) to enhance my software development skills. I'm a fast learner, eager to tackle new challenges, and always seeking opportunities to improve my skills. Outside of coding, I enjoy playing guitar and video games. I'm particularly interested in exploring how I can apply my development skills to create musical applications or tools, though I'm still discovering the best path forward.
 
 
 # Technical Skills
