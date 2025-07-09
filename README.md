@@ -6,7 +6,7 @@ I'm an aspiring software developer with a passion for building, learning, and ex
 
 ## 🚀 About Me
 
-My love for technology runs deep—I've always been curious about how things work, whether it's an engine or an application. That curiosity led me to programming and eventually to graduate from the [TrueCoders](https://truecoder.io) software development bootcamp.
+My love for technology runs deep—I've always been curious about how things work, whether it's an engine or an application. That curiosity led me to programming and eventually to graduate from the [TrueCoders](https://truecoders.io) software development bootcamp.
 
 Since then, I’ve been focused on sharpening my skills in full-stack web development, particularly with C# and .NET. But more than just building web apps, I’m passionate about understanding *how systems are built*—diving into architecture, library design, and infrastructure.
 
