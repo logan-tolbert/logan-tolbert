@@ -8,6 +8,14 @@ I'm an aspiring software developer with a passion for building, learning, and ex
 
 ![Guitarist's Toolkit Preview](https://github.com/logan-tolbert/dev-space/blob/main/demos/gtk-preview.gif)
 
+---
+
+[Blog Platform - Frontend](https://github.com/logan-tolbert/Asp.Net-BlogWeb/)
+
+[Blog Platform - Backend](https://github.com/logan-tolbert/Asp.Net-BlogApi)
+
+![Blog Platform Preview](https://github.com/logan-tolbert/dev-space/blob/main/demos/blogapp-preview.gif)
+
 ## 🚀 About Me
 
 My love for technology runs deep—I've always been curious about how things work, whether it's an engine or an application. That curiosity led me to programming and eventually to graduate from the [TrueCoders](https://truecoders.io) software development bootcamp.
