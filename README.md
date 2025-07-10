@@ -3,6 +3,10 @@
 I'm an aspiring software developer with a passion for building, learning, and exploring the deeper layers of software engineering. After over a decade working as a mechanic, I transitioned into software development to pursue a more fulfilling and future-facing career.
 
 ---
+## 🌟 Projects
+[Guitarist's Toolkit](https://github.com/logan-tolbert/GuitaristsToolkit)
+
+![Guitarist's Toolkit Preview](https://github.com/logan-tolbert/dev-space/blob/main/demos/gtk-preview.gif)
 
 ## 🚀 About Me
 
@@ -35,7 +39,7 @@ I'm a quick learner, not afraid to get into source code, and always exploring ho
 ## 🤝 Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/logan-tolbert)
-- [GitHub](https://github.com/logan-tolbert)
+- [Facebook](https://www.facebook.com/lodev205)
 
 ---
 
