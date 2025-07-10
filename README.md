@@ -16,6 +16,12 @@ I'm an aspiring software developer with a passion for building, learning, and ex
 
 ![Blog Platform Preview](https://github.com/logan-tolbert/dev-space/blob/main/demos/blogapp-preview.gif)
 
+--- 
+
+[Metronome - Cross-Platform Desktop Application](https://github.com/logan-tolbert/GTK-Metronome)
+
+<img src="https://github.com/logan-tolbert/dev-space/blob/main/images/metronome-app.png" height="400" alt="Metronome App Preview">
+
 ## 🚀 About Me
 
 My love for technology runs deep—I've always been curious about how things work, whether it's an engine or an application. That curiosity led me to programming and eventually to graduate from the [TrueCoders](https://truecoders.io) software development bootcamp.
